@@ -1,0 +1,54 @@
+* {
+    color: #4c4f69;
+}
+
+window {
+    font-size: 16px;
+    background: rgba(0,0,0,0);
+}
+
+.modules-right {
+    background-color: #eff1f5;
+    margin: 10px 0px 10px 10px;
+    border: solid 3px;
+    border-radius: 10px;
+}
+
+.modules-left {
+    background-color: #eff1f5;
+    margin: 10px 0px 10px 10px;
+    border: solid 3px;
+    border-radius: 10px;
+}
+
+#workspaces button {
+    padding: 1px 5px;
+    background-color: transparent;
+    font-size: 19px;
+}
+
+#custom-seperator {
+    font-size: 19px;
+}
+
+#battery {
+   font-size: 19px;
+   padding-top: 4px;
+}
+
+#battery.charging {
+    color: #40a02b;
+    font-size: 19px;
+   padding-top: 4px;
+}
+
+#tray {
+    padding: 6px;
+    font-size: 19px;
+}
+
+#custom-recorder {
+	font-size: 20px;
+	margin: 2px 7px 0px 7px;
+	color:#d20f39;
+}
